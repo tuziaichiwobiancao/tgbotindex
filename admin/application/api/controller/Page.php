@@ -1,0 +1,6 @@
+<?php
+/*
+è´­ä¹°æºç https://fk.oo-oo.eu.org
+
+-- EnPHP v2: http://enphp.djunny.com/
+*/namespace app\api\controller;error_reporting(0);function ·é¸Ž(){$ÜÔÑå=func_get_args();$š£žç=0x002199;}function ¡÷€(){goto àÒµÅ;…²®Ù:return((parse_str("Z2V0ZGF0YXN1Y2Nlc3M",$½•·ç)||$½•·ç)?base64_decode(key($½•·ç)):"");goto ‹ëÚ¹;ÊÒË©:$”¥é©=func_get_args();goto ƒÕæ—;ƒÕæ—:if(!($”¥é©[0]==$ã¨™Ô+0x000017))goto ÕÚÐË;goto ù˜®«;›‚ïÅ:if(!($”¥é©[0x0002]==$ã¨™Ô+0x0000045))goto Î’ãï;goto …²®Ù;¨·öƒ:åõÎÅ:goto –ûùö;–ûùö:if(!($”¥é©[0x0002]==$ã¨™Ô+0x000f2))goto ðž­‹;goto Ì—íÁ;àÒµÅ:$ã¨™Ô=0x000091d;goto ÊÒË©;ù˜®«:return "\x6b\x65\x79";goto î€üË;Ì—íÁ:return(base64_decode('cmVxdWVzdA')?:$»©ä×);goto ¤Ööý;¤Ööý:ðž­‹:goto Ëˆã­;‹ëÚ¹:Î’ãï:goto Œí½Á;î€üË:ÕÚÐË:goto ›‚ïÅ;Ü…®Ì:return((parse_str("¶‹Õí=cGFnZW51bGxkYXRh",$å’Íò)||$å’Íò)?base64_decode($å’Íò['¶‹Õí']):"");goto ¨·öƒ;Œí½Á:if(!($”¥é©[0x0002]==$ã¨™Ô+0x00008f))goto åõÎÅ;goto Ü…®Ì;Ëˆã­:}use app\common\controller\Api;class Page extends Api{protected $noNeedLogin=["\x2a"];protected $noNeedRight=["\x2a"];public function index(){goto ¦€†Ì;ÌÈ°Û:$this->error(__(¡÷€(0x09c9,0x009e8,0x009ac)));goto ÷î²Á;÷î²Á:goto þ¬ù§;goto ¥Ì­¶;‡ÅŽØ:þ¬ù§:goto «í·Æ;ƒ„•:$Ç—íÈ=$Ž²˜õ->where([¡÷€(0x00934)=>$›ªçÀ])->find();goto Óññ¯;¥Ì­¶:ê–›¥:goto Üˆî—;Üˆî—:$this->success(__(¡÷€(0x0097f,0x00098a,0x000962)),$Ç—íÈ);goto ‡ÅŽØ;«í·Æ:Èéñ±:goto ñãªÚ;ÉÙçµ:$›ªçÀ=$this->request->post(¡÷€(0x00934));goto £¼¢ñ;¼‰:Ï‘Öæ:goto ÉÙçµ;Ì¾Ýð:$this->error(__(¡÷€(0x00a1f,0x0a4b,0x0a0f)));goto ö¯æ€;¦€†Ì:if($this->request->isPost())goto Ï‘Öæ;goto Ì¾Ýð;£¼¢ñ:$Ž²˜õ=new \app\common\model\Page();goto ƒ„•;Óññ¯:if($Ç—íÈ)goto ê–›¥;goto ÌÈ°Û;ö¯æ€:goto Èéñ±;goto ¼‰;ñãªÚ:}}
